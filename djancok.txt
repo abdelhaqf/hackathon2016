@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ini gw tulis
 ini juga
+=======
+test test
+>>>>>>> origin/master
